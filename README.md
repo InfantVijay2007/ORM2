@@ -42,8 +42,7 @@ from.models import Car,CarAdmin
 admin.site.register(Car,CarAdmin)
  ```
 ## OUTPUT
-![alt text](<../../exp2/Screenshot (21).png>)
-
+![alt text](<exp2/Screenshot (21).png>)
 
 
 ## RESULT
